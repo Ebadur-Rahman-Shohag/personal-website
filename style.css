@@ -1,0 +1,135 @@
+body{
+    color: #40514e;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+}
+.container{
+    background-color: #E4F9F5;
+    margin: 0px;
+    padding-top: 200px;
+    position: relative;
+}
+.pro{
+    text-decoration: underline;
+}
+h1{
+    display: inline-block;
+    color: #66BFBF;
+    width: 30%;
+    margin:0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+}
+h2{ 
+    font-weight: normal;
+    color: #66BFBF;
+    font-family: 'Acme', sans-serif;
+    font-size: 2rem;
+    padding-bottom: 10px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 380px;
+    bottom: 320px;
+}
+.top-cloud{
+    position: absolute;
+    right: 370px;
+    top: 150px;
+}
+#shohag{
+    margin-top: 30px;
+    height: 200px;
+    border-radius: 800px;
+}
+ 
+h3{
+    color: #11999E;
+}
+hr{
+    border: dotted gray 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.skill-row{
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.red-chili{
+    margin-left: 30px;
+    float: right;
+    height: 150px;
+    width: 35%;
+    border-radius: 200px;
+    color: black;
+}
+.image{
+    float: left;
+    margin-right: 30px;
+    border-radius: 300px;
+    width: 35%;
+}
+.contact-me{
+    width: 40%;
+    margin: 40px auto 60px;
+    font-size: 20px;
+}
+.btn {
+	background-color:#44c767;
+	-webkit-border-top-left-radius:11px;
+	-moz-border-radius-topleft:11px;
+	border-top-left-radius:11px;
+	-webkit-border-top-right-radius:11px;
+	-moz-border-radius-topright:11px;
+	border-top-right-radius:11px;
+	-webkit-border-bottom-right-radius:11px;
+	-moz-border-radius-bottomright:11px;
+	border-bottom-right-radius:11px;
+	-webkit-border-bottom-left-radius:11px;
+	-moz-border-radius-bottomleft:11px;
+	border-bottom-left-radius:11px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:48px;
+	line-height:48px;
+width:156px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:-1px -3px 1px #2f6627;
+}.btn:hover {
+	background-color:#5cbf2a;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+    background-color: grey;
+    padding: 30px 40px;
+}
+a{
+    margin: 0px 30px;
+    font-size: 20px;
+    color: indianred;
+    text-decoration: none;
+ }
+ a:hover{
+     background-color: violet;
+     border-radius: 30px;
+ }
+
+#p{
+    color: white;
+}
